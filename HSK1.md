@@ -9,19 +9,19 @@
 
 ### Pronouns
 
-| 汉子 | 拼音   | 英文                                                         | Stroke order                                              |
-| ---- | ------ | ------------------------------------------------------------ | --------------------------------------------------------- |
-| 我   | wǒ     | I, me, my                                                    | ![我](Stroke_order/我.png)                                |
-| 你   | nǐ     | You (informal)                                               | ![你](Stroke_order/你.png)                                |
-| 心   | xīn    | heart, mind, intention, center                               | ![心](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\心.png) |
-| 您   | nín    | You (formal)                                                 | ![您](Stroke_order/您.png)                                |
-| 他   | tā     | He, him                                                      | ![他](Stroke_order/他.png)                                |
-| 她   | tā     | She                                                          | ![她](Stroke_order/她.png)                                |
-| 们   | men    | Plural marker for pronouns, and nouns referring to individuals | ![们](Stroke_order/们.png)                                |
-| 我们 | wǒ men | We, us, ourselves, our                                       |                                                           |
-| 你们 | nǐ men | You (plural)                                                 |                                                           |
-| 他们 | tā men | They                                                         |                                                           |
-| 她们 | tā men | They, them (for females)                                     |                                                           |
+| 汉子 | 拼音   | 英文                                                         | Stroke order               |
+| ---- | ------ | ------------------------------------------------------------ | -------------------------- |
+| 我   | wǒ     | I, me, my                                                    | ![我](Stroke_order/我.png) |
+| 你   | nǐ     | You (informal)                                               | ![你](Stroke_order/你.png) |
+| 心   | xīn    | heart, mind, intention, center                               | ![心](Stroke_order/心.png) |
+| 您   | nín    | You (formal)                                                 | ![您](Stroke_order/您.png) |
+| 他   | tā     | He, him                                                      | ![他](Stroke_order/他.png) |
+| 她   | tā     | She                                                          | ![她](Stroke_order/她.png) |
+| 们   | men    | Plural marker for pronouns, and nouns referring to individuals | ![们](Stroke_order/们.png) |
+| 我们 | wǒ men | We, us, ourselves, our                                       |                            |
+| 你们 | nǐ men | You (plural)                                                 |                            |
+| 他们 | tā men | They                                                         |                            |
+| 她们 | tā men | They, them (for females)                                     |                            |
 
 ### Hello
 
@@ -63,11 +63,11 @@
 
 ## Lesson 2 : 谢谢你
 
-| 汉子 | 拼音 | 英文                                                         | Stroke order                                              |
-| ---- | ---- | ------------------------------------------------------------ | --------------------------------------------------------- |
-| 小   | xiǎo | small, tiny, few, young                                      | ![小](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\小.png) |
-| 口   | kǒu  | mouth, classifier for people, domestic animals, cannons, wells | ![口](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\口.png) |
-| 山   | shān | mountain, hill, anything that resembles a mountain           | ![山](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\山.png) |
+| 汉子 | 拼音 | 英文                                                         | Stroke order               |
+| ---- | ---- | ------------------------------------------------------------ | -------------------------- |
+| 小   | xiǎo | small, tiny, few, young                                      | ![小](Stroke_order/小.png) |
+| 口   | kǒu  | mouth, classifier for people, domestic animals, cannons, wells | ![口](Stroke_order/口.png) |
+| 山   | shān | mountain, hill, anything that resembles a mountain           | ![山](Stroke_order/山.png) |
 
 ### Thank you, bye!
 
@@ -111,16 +111,16 @@
 
 ### Name
 
-| 汉子 | 拼音    | 英文                                                    | Stroke order                                              |
-| ---- | ------- | ------------------------------------------------------- | --------------------------------------------------------- |
-| 叫   | jiào    | to be called, to call, to order, to ask, to shout       | ![叫](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\叫.png) |
-| 这   | zhè     | this, these                                             | ![这](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\这.png) |
-| 什   | shén    | what                                                    | ![什](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\什.png) |
-| 么   | me      | suffix, used to form interrogative                      | ![么](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\么.png) |
-| 什么 | shén me | what ? who ? something, anything                        |                                                           |
-| 名   | míng    | name, noun, place (rank), famous, classifier for people | ![名](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\名.png) |
-| 字   | zi      | letter, symbol, character, word                         | ![字](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\字.png) |
-| 名字 | míng zi | name (of a person or thing)                             |                                                           |
+| 汉子 | 拼音    | 英文                                                    | Stroke order               |
+| ---- | ------- | ------------------------------------------------------- | -------------------------- |
+| 叫   | jiào    | to be called, to call, to order, to ask, to shout       | ![叫](Stroke_order/叫.png) |
+| 这   | zhè     | this, these                                             | ![这](Stroke_order/这.png) |
+| 什   | shén    | what                                                    | ![什](Stroke_order/什.png) |
+| 么   | me      | suffix, used to form interrogative                      | ![么](Stroke_order/么.png) |
+| 什么 | shén me | what ? who ? something, anything                        |                            |
+| 名   | míng    | name, noun, place (rank), famous, classifier for people | ![名](Stroke_order/名.png) |
+| 字   | zi      | letter, symbol, character, word                         | ![字](Stroke_order/字.png) |
+| 名字 | míng zi | name (of a person or thing)                             |                            |
 
 - 你叫什么名字 ?
 - 我叫雨果.
@@ -131,27 +131,27 @@
 
 ### Occupation
 
-| 汉子 | 拼音  | 英文                                                         | Stroke order                                              |
-| ---- | ----- | ------------------------------------------------------------ | --------------------------------------------------------- |
-| 是   | shì   | to be, yes                                                   | ![是](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\是.png) |
-| 吗   | ma    | question particle for "yes-no" questions                     | ![吗](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\吗.png) |
-| 老   | lǎo   | prefix before the surname of a person, old, venerable, experienced | ![老](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\老.png) |
-| 师   | shī   | teacher, master, expert, model                               | ![师](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\师.png) |
-| 学   | xué   | to learn, to study, to imitate                               | ![学](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\学.png) |
-| 生   | shēng | to be born, to givebirth, life, to grow, student             | ![生](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\生.png) |
+| 汉子 | 拼音  | 英文                                                         | Stroke order               |
+| ---- | ----- | ------------------------------------------------------------ | -------------------------- |
+| 是   | shì   | to be, yes                                                   | ![是](Stroke_order/是.png) |
+| 吗   | ma    | question particle for "yes-no" questions                     | ![吗](Stroke_order/吗.png) |
+| 老   | lǎo   | prefix before the surname of a person, old, venerable, experienced | ![老](Stroke_order/老.png) |
+| 师   | shī   | teacher, master, expert, model                               | ![师](Stroke_order/师.png) |
+| 学   | xué   | to learn, to study, to imitate                               | ![学](Stroke_order/学.png) |
+| 生   | shēng | to be born, to givebirth, life, to grow, student             | ![生](Stroke_order/生.png) |
 
 - 你是老师吗 ? 
 - 我不是老师, 我是学生.
 
 ### Nationality
 
-| 汉子 | 拼音  | 英文                               | Stroke order                                              |
-| ---- | ----- | ---------------------------------- | --------------------------------------------------------- |
-| 中   | zhōng | within, among, in, middle, center  | ![中](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\中.png) |
-| 美   | měi   | beautiful, good, very satisfactory |                                                           |
-| 法   | fǎ    | law, method, way                   | ![法](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\法.png) |
-| 国   | guó   | country, nation, state             | ![国](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\国.png) |
-| 人   | rén   | man, person, people                | ![人](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\人.png) |
+| 汉子 | 拼音  | 英文                               | Stroke order               |
+| ---- | ----- | ---------------------------------- | -------------------------- |
+| 中   | zhōng | within, among, in, middle, center  | ![中](Stroke_order/中.png) |
+| 美   | měi   | beautiful, good, very satisfactory |                            |
+| 法   | fǎ    | law, method, way                   | ![法](Stroke_order/法.png) |
+| 国   | guó   | country, nation, state             | ![国](Stroke_order/国.png) |
+| 人   | rén   | man, person, people                | ![人](Stroke_order/人.png) |
 
 - 你是中国人吗 ?
 - 我不是中国人, 我是法国人.
