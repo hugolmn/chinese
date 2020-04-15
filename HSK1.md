@@ -6,7 +6,7 @@
 - [Stroke Order Project](https://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project), Images/animations under CC + GFDL, [M4RCo](https://commons.wikimedia.org/wiki/User:M4RC0)
 - [Yabla](https://chinese.yabla.com)
 
-## [Lesson 1 : 你好](#hsk1-1)
+## Lesson 1 : 你好
 
 ### Pronouns
 
@@ -62,7 +62,7 @@
 | 九   | jiǔ  | nine  | ![九](Stroke_order/九.png) |
 | 十   | shí  | ten   | ![十](Stroke_order/十.png) |
 
-## [Lesson 2 : 谢谢你](#hsk1-2)
+## Lesson 2 : 谢谢你
 
 | 汉子 | 拼音 | 英文                                                         | Stroke order               |
 | ---- | ---- | ------------------------------------------------------------ | -------------------------- |
@@ -108,7 +108,7 @@
 | 外婆   | wài pó    | maternal grandmother (informal)         |                            |
 | 外祖母 | wài zǔ mǔ | maternal grandmother (formal)           |                            |
 
-## [Lesson 3 : 你叫什么名字](#hsk1-3)
+## Lesson 3 : 你叫什么名字
 
 ### Name
 
