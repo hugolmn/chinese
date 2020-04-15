@@ -9,18 +9,19 @@
 
 ### Pronouns
 
-| 汉子 | 拼音   | 英文                                                         | Stroke order               |
-| ---- | ------ | ------------------------------------------------------------ | -------------------------- |
-| 我   | wǒ     | I, me, my                                                    | ![我](Stroke_order/我.png) |
-| 你   | nǐ     | You (informal)                                               | ![你](Stroke_order/你.png) |
-| 您   | nín    | You (formal)                                                 | ![您](Stroke_order/您.png) |
-| 他   | tā     | He, him                                                      | ![他](Stroke_order/他.png) |
-| 她   | tā     | She                                                          | ![她](Stroke_order/她.png) |
-| 们   | men    | Plural marker for pronouns, and nouns referring to individuals | ![们](Stroke_order/们.png) |
-| 我们 | wǒ men | We, us, ourselves, our                                       |                            |
-| 你们 | nǐ men | You (plural)                                                 |                            |
-| 他们 | tā men | They                                                         |                            |
-| 她们 | tā men | They, them (for females)                                     |                            |
+| 汉子 | 拼音   | 英文                                                         | Stroke order                                              |
+| ---- | ------ | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 我   | wǒ     | I, me, my                                                    | ![我](Stroke_order/我.png)                                |
+| 你   | nǐ     | You (informal)                                               | ![你](Stroke_order/你.png)                                |
+| 心   | xīn    | heart, mind, intention, center                               | ![心](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\心.png) |
+| 您   | nín    | You (formal)                                                 | ![您](Stroke_order/您.png)                                |
+| 他   | tā     | He, him                                                      | ![他](Stroke_order/他.png)                                |
+| 她   | tā     | She                                                          | ![她](Stroke_order/她.png)                                |
+| 们   | men    | Plural marker for pronouns, and nouns referring to individuals | ![们](Stroke_order/们.png)                                |
+| 我们 | wǒ men | We, us, ourselves, our                                       |                                                           |
+| 你们 | nǐ men | You (plural)                                                 |                                                           |
+| 他们 | tā men | They                                                         |                                                           |
+| 她们 | tā men | They, them (for females)                                     |                                                           |
 
 ### Hello
 
@@ -113,6 +114,7 @@
 | 汉子 | 拼音    | 英文                                                    | Stroke order                                              |
 | ---- | ------- | ------------------------------------------------------- | --------------------------------------------------------- |
 | 叫   | jiào    | to be called, to call, to order, to ask, to shout       | ![叫](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\叫.png) |
+| 这   | zhè     | this, these                                             | ![这](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\这.png) |
 | 什   | shén    | what                                                    | ![什](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\什.png) |
 | 么   | me      | suffix, used to form interrogative                      | ![么](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\么.png) |
 | 什么 | shén me | what ? who ? something, anything                        |                                                           |
@@ -122,6 +124,10 @@
 
 - 你叫什么名字 ?
 - 我叫雨果.
+- 她叫什么名字 ?
+- 她叫靖雯.
+- 这是什么 ?
+- 这是一本书.
 
 ### Occupation
 
@@ -139,11 +145,16 @@
 
 ### Nationality
 
-| 汉子 | 拼音 | 英文 | Stroke order |
-| ---- | ---- | ---- | ------------ |
-|      |      |      |              |
+| 汉子 | 拼音  | 英文                               | Stroke order                                              |
+| ---- | ----- | ---------------------------------- | --------------------------------------------------------- |
+| 中   | zhōng | within, among, in, middle, center  | ![中](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\中.png) |
+| 美   | měi   | beautiful, good, very satisfactory |                                                           |
+| 法   | fǎ    | law, method, way                   | ![法](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\法.png) |
+| 国   | guó   | country, nation, state             | ![国](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\国.png) |
+| 人   | rén   | man, person, people                | ![人](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\人.png) |
 
- 	 
+- 你是中国人吗 ?
+- 我不是中国人, 我是法国人.
 
 
 
