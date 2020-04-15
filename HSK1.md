@@ -3,7 +3,7 @@
 ### Sources
 
 - **HSK1 Standard Course**, Beijin language and culture university press, *Jiang Liping, Wang Fang, Wang Feng, Liu Liping*
-- [Stroke Order Project]([http://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project](https://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project)), Images/animations under CC + GFDL, [M4RCo](https://commons.wikimedia.org/wiki/User:M4RC0)
+- [Stroke Order Project](https://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project), Images/animations under CC + GFDL, [M4RCo](https://commons.wikimedia.org/wiki/User:M4RC0)
 
 ## Lesson 1 : 你好
 
@@ -62,6 +62,8 @@
 
 ## Lesson 2 : 谢谢你
 
+### Thank you, bye!
+
 | 汉子   | 拼音       | 英文                                                         | Stroke order                                              |
 | ------ | ---------- | ------------------------------------------------------------ | --------------------------------------------------------- |
 | 谢     | xiè        | to thank, to apologize, to decline                           | ![谢](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\谢.png) |
@@ -73,16 +75,40 @@
 | 不客气 | bù kè qi   | Don't mention it, my pleasure, you're welcome, don't be so polite |                                                           |
 | 再     | zài        | again, once more, re-, second, another                       | ![再](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\再.png) |
 | 见     | jiàn       | to see, to meet, to appear                                   |                                                           |
+| 再见   | zài jiàn   | goodbye, see you again later                                 |                                                           |
+
+### Family members
+
+| 汉子   | 拼音      | 英文                                    | Stroke order                                              |
+| ------ | --------- | --------------------------------------- | --------------------------------------------------------- |
+| 妈妈   | mā ma     | mom, mother, mommy                      | ![妈](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\妈.png) |
+| 爸爸   | bà ba     | father                                  | ![爸](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\爸.png) |
+| 弟弟   | dì di     | younger brother                         | ![弟](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\弟.png) |
+| 哥哥   | gē ge     | older brother                           | ![哥](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\哥.png) |
+| 妹妹   | mèi mei   | younger sister                          | ![妹](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\妹.png) |
+| 姐姐   | jiě jie   | older sister                            | ![姐](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\姐.png) |
+| 外     | wài       | outside, in addition, foreign, external | ![外](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\外.png) |
+| 祖     | zǔ        | ancestor, forefather, grandparents      |                                                           |
+| 父     | fù        | father                                  | ![父](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\父.png) |
+| 母     | mǔ        | mother                                  |                                                           |
+| 爷爷   | yé ye     | paternal grandfather (informal)         | ![爷](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\爷.png) |
+| 祖父   | zǔ fù     | paternal grandfather (formal)           |                                                           |
+| 外公   | wài gōng  | maternal grandfather (informal)         |                                                           |
+| 外祖父 | wài zǔ fù | maternal grandfather (formal)           |                                                           |
+| 奶奶   | nǎi nai   | paternal grandmother (informal)         | ![奶](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\奶.png) |
+| 祖母   | zǔ mǔ     | paternal grandmother (formal)           |                                                           |
+| 外婆   | wài pó    | maternal grandmother (informal)         |                                                           |
+| 外祖母 | wài zǔ mǔ | maternal grandmother (formal)           |                                                           |
 
 
 
 
 
+​	
 
 
 
-
-
+ 	 
 
 
 
