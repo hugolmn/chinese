@@ -62,17 +62,23 @@
 
 ## Lesson 2 : 谢谢你
 
+| 汉子 | 拼音 | 英文                                                         | Stroke order                                              |
+| ---- | ---- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 小   | xiǎo | small, tiny, few, young                                      | ![小](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\小.png) |
+| 口   | kǒu  | mouth, classifier for people, domestic animals, cannons, wells | ![口](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\口.png) |
+| 山   | shān | mountain, hill, anything that resembles a mountain           | ![山](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\山.png) |
+
 ### Thank you, bye!
 
 | 汉子   | 拼音       | 英文                                                         | Stroke order               |
 | ------ | ---------- | ------------------------------------------------------------ | -------------------------- |
 | 谢     | xiè        | to thank, to apologize, to decline                           | ![谢](Stroke_order/谢.png) |
-| 谢谢   | xiè xie    | To thank, thanks, thank you                                  |                            |
-| 不谢   | bù xiè     | Don't mention it, not at all, you're welcome                 |                            |
-| 谢谢你 | xiè xie nǐ | Thank you                                                    |                            |
+| 谢谢   | xiè xie    | to thank, thanks, thank you                                  |                            |
+| 不谢   | bù xiè     | don't mention it, not at all, you're welcome                 |                            |
+| 谢谢你 | xiè xie nǐ | thank you                                                    |                            |
 | 客     | kè         | customer, visitor, guest                                     | ![客](Stroke_order/客.png) |
-| 气     | qi         | Air, gas, smell, weather, to make angry, to annoy            | ![气](Stroke_order/气.png) |
-| 不客气 | bù kè qi   | Don't mention it, my pleasure, you're welcome, don't be so polite |                            |
+| 气     | qi         | air, gas, smell, weather, to make angry, to annoy            | ![气](Stroke_order/气.png) |
+| 不客气 | bù kè qi   | don't mention it, my pleasure, you're welcome, don't be so polite |                            |
 | 再     | zài        | again, once more, re-, second, another                       | ![再](Stroke_order/再.png) |
 | 见     | jiàn       | to see, to meet, to appear                                   |                            |
 | 再见   | zài jiàn   | goodbye, see you again later                                 |                            |
@@ -100,13 +106,42 @@
 | 外婆   | wài pó    | maternal grandmother (informal)         |                            |
 | 外祖母 | wài zǔ mǔ | maternal grandmother (formal)           |                            |
 
+## Lesson 3 : 你叫什么名字
 
+### Name
 
+| 汉子 | 拼音    | 英文                                                    | Stroke order                                              |
+| ---- | ------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| 叫   | jiào    | to be called, to call, to order, to ask, to shout       | ![叫](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\叫.png) |
+| 什   | shén    | what                                                    | ![什](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\什.png) |
+| 么   | me      | suffix, used to form interrogative                      | ![么](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\么.png) |
+| 什么 | shén me | what ? who ? something, anything                        |                                                           |
+| 名   | míng    | name, noun, place (rank), famous, classifier for people | ![名](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\名.png) |
+| 字   | zi      | letter, symbol, character, word                         | ![字](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\字.png) |
+| 名字 | míng zi | name (of a person or thing)                             |                                                           |
 
+- 你叫什么名字 ?
+- 我叫雨果.
 
-​	
+### Occupation
 
+| 汉子 | 拼音  | 英文                                                         | Stroke order                                              |
+| ---- | ----- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 是   | shì   | to be, yes                                                   | ![是](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\是.png) |
+| 吗   | ma    | question particle for "yes-no" questions                     | ![吗](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\吗.png) |
+| 老   | lǎo   | prefix before the surname of a person, old, venerable, experienced | ![老](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\老.png) |
+| 师   | shī   | teacher, master, expert, model                               | ![师](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\师.png) |
+| 学   | xué   | to learn, to study, to imitate                               | ![学](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\学.png) |
+| 生   | shēng | to be born, to givebirth, life, to grow, student             | ![生](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\生.png) |
 
+- 你是老师吗 ? 
+- 我不是老师, 我是学生.
+
+### Nationality
+
+| 汉子 | 拼音 | 英文 | Stroke order |
+| ---- | ---- | ---- | ------------ |
+|      |      |      |              |
 
  	 
 
