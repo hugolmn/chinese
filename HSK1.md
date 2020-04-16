@@ -132,14 +132,15 @@
 
 ### Occupation
 
-| 汉子 | 拼音  | 英文                                                         | Stroke order               |
-| ---- | ----- | ------------------------------------------------------------ | -------------------------- |
-| 是   | shì   | to be, yes                                                   | ![是](Stroke_order/是.png) |
-| 吗   | ma    | question particle for "yes-no" questions                     | ![吗](Stroke_order/吗.png) |
-| 老   | lǎo   | prefix before the surname of a person, old, venerable, experienced | ![老](Stroke_order/老.png) |
-| 师   | shī   | teacher, master, expert, model                               | ![师](Stroke_order/师.png) |
-| 学   | xué   | to learn, to study, to imitate                               | ![学](Stroke_order/学.png) |
-| 生   | shēng | to be born, to givebirth, life, to grow, student             | ![生](Stroke_order/生.png) |
+| 汉子 | 拼音      | 英文                                                         | Stroke order               |
+| ---- | --------- | ------------------------------------------------------------ | -------------------------- |
+| 是   | shì       | to be, yes                                                   | ![是](Stroke_order/是.png) |
+| 吗   | ma        | question particle for "yes-no" questions                     | ![吗](Stroke_order/吗.png) |
+| 老   | lǎo       | prefix before the surname of a person, old, venerable, experienced | ![老](Stroke_order/老.png) |
+| 师   | shī       | teacher, master, expert, model                               | ![师](Stroke_order/师.png) |
+| 学   | xué       | to learn, to study, to imitate                               | ![学](Stroke_order/学.png) |
+| 生   | shēng     | to be born, to givebirth, life, to grow, student             | ![生](Stroke_order/生.png) |
+| 学生 | xué shēng | student, schoolchild                                         |                            |
 
 - 你是老师吗 ? 
 - 我不是老师, 我是学生.
@@ -157,9 +158,32 @@
 - 你是中国人吗 ?
 - 我不是中国人, 我是法国人.
 
+## Lesson 4 : 她是我的汉语老师
 
+### 的, 哪, 呢
 
+| 汉子 | 拼音     | 英文                                                         | Stroke order               |
+| ---- | -------- | ------------------------------------------------------------ | -------------------------- |
+| 谁   | shéi     | who, whom                                                    | ![谁](Stroke_order/谁.png) |
+| 的   | de       | ~'s (possessive particle), of, used after an attribute       | ![的](Stroke_order/的.png) |
+| 哪   | nǎ       | how, which                                                   | ![哪](Stroke_order/哪.png) |
+| 那   | nà       | that, those, then (in that case)                             | ![那](Stroke_order/那.png) |
+| 呢   | ne       | particle indicating that a previously asked question is to be applied to the preceding word ("What about ...?", "And ...?") | ![呢](Stroke_order/呢.png) |
+| 同   | tóng     | like, same, similar, together, alike                         | ![同](Stroke_order/同.png) |
+| 同学 | tóng xué | fellow student, classmate                                    |                            |
+| 朋   | péng     | friend                                                       | ![朋](Stroke_order/朋.png) |
+| 友   | yǒu      | friend                                                       | ![友](Stroke_order/友.png) |
+| 朋友 | péng you | friend                                                       |                            |
 
+### Language
 
-
-
+| 汉子 | 拼音      | 英文                                                   | Stroke order               |
+| ---- | --------- | ------------------------------------------------------ | -------------------------- |
+| 谁   | shéi      | who, whom                                              | ![谁](Stroke_order/谁.png) |
+| 的   | de        | ~'s (possessive particle), of, used after an attribute | ![的](Stroke_order/的.png) |
+| 汉   | Hàn       | Han ethnic group                                       | ![汉](Stroke_order/汉.png) |
+| 语   | yǔ        | language, dialect, speech                              | ![语](Stroke_order/语.png) |
+| 汉语 | Hàn yǔ    | Han (chinese) language                                 |                            |
+| 文   | wén       | language, culture, writing                             | ![文](Stroke_order/文.png) |
+| 中文 | Zhōng wén | Chinese language                                       |                            |
+| 法文 | Fǎ wén    | French language                                        |                            |
