@@ -110,7 +110,7 @@
 
 ## Lesson 3 : 你叫什么名字
 
-### Name
+### 名字, 这
 
 | 汉子 | 拼音    | 英文                                                    | Stroke order               |
 | ---- | ------- | ------------------------------------------------------- | -------------------------- |
@@ -175,6 +175,11 @@
 | 友   | yǒu      | friend                                                       | ![友](Stroke_order/友.png) |
 | 朋友 | péng you | friend                                                       |                            |
 
+- 他是谁 ?
+- 他是我的朋友.
+- 你是哪国人 ?
+- 我是英国人
+
 ### Language
 
 | 汉子 | 拼音      | 英文                                                   | Stroke order               |
@@ -187,3 +192,5 @@
 | 文   | wén       | language, culture, writing                             | ![文](Stroke_order/文.png) |
 | 中文 | Zhōng wén | Chinese language                                       |                            |
 | 法文 | Fǎ wén    | French language                                        |                            |
+
+- 你的汉语老师叫什么 ?
