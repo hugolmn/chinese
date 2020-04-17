@@ -9,3 +9,4 @@
 
 - [Lesson 5 : 她女儿今年二十岁](HSK1.md#lesson-5--她女儿今年二十岁)
 - [Lesson 6 : 我会说汉语](HSK1.md#lesson-6--我会说汉语)
+- [Lesson 7 : 今天几号 ?](HSK1.md#lesson-7--今天几号-)
