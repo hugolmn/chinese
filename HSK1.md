@@ -274,3 +274,45 @@
 - 我会做.
 - 法国菜好吃吗 ?
 - 法国菜很好吃.
+
+## Lesson 7 : 今天几号 ?
+
+| 汉子 | 拼音     | 英文                                  | Stroke order                                              |
+| ---- | -------- | ------------------------------------- | --------------------------------------------------------- |
+| 请   | qǐng     | to ask, to invite, please, to request | ![请](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\请.png) |
+| 问   | wèn      | to ask                                | ![问](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\问.png) |
+| 请问 | qǐng wèn | Excuse me, may I ask...?              |                                                           |
+
+### Date
+
+| 汉子 | 拼音      | 英文                                  | Stroke order                                              |
+| ---- | --------- | ------------------------------------- | --------------------------------------------------------- |
+| 号   | hào       | ordinal number, day of a month        | ![号](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\号.png) |
+| 天   | tiān      | day, sky, heaven                      | ![天](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\天.png) |
+| 星   | xīng      | star, heavenly body                   | ![星](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\星.png) |
+| 期   | qī        | a periode of time, phase, stage, time | ![期](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\期.png) |
+| 星期 | xīng qī   | week, day of the week                 |                                                           |
+| 月   | yuè       | moon, month                           | ![月](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\月.png) |
+| 年   | nián      | year                                  | ![年](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\年.png) |
+| 昨   | zuó       | yesterday                             | ![昨](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\昨.png) |
+| 今天 | jīn tiān  | today, at the present, now            |                                                           |
+| 昨天 | zuó tiān  | yesterday                             |                                                           |
+| 明天 | míng tiān | tomorrow                              |                                                           |
+
+- 请问, 今天几月几号 ?
+- 今天四月十七号.
+- 今天星期几 ?
+- 星期五.
+
+### To go, to read
+
+| 汉子 | 拼音     | 英文                                            | Stroke order                                              |
+| ---- | -------- | ----------------------------------------------- | --------------------------------------------------------- |
+| 去   | qù       | to go, last, just passed                        | ![去](Stroke_order/去.png)                                |
+| 校   | xiào     | school                                          | ![校](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\校.png) |
+| 学校 | xué xiào | school                                          |                                                           |
+| 看   | kàn      | to see, to look at, to read, to watch, to visit | ![看](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\看.png) |
+| 书   | shū      | book, letter, document                          | ![书](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\书.png) |
+
+- 明天星期五, 你去学校做什么 ?
+- 我去学校看书.
