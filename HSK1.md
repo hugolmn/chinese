@@ -283,6 +283,35 @@
 | 问   | wèn      | to ask                                | ![问](Stroke_order/问.png) |
 | 请问 | qǐng wèn | Excuse me, may I ask...?              |                            |
 
+### Days of the week
+
+| 汉子            | 拼音                    | 英文      |
+| --------------- | ----------------------- | --------- |
+| 星期一          | xīngqī yī               | Monday    |
+| 星期二          | xīngqī èr               | Tuesday   |
+| 星期三          | xīngqī sān              | Wednesday |
+| 星期四          | xīngqī sì               | Thursday  |
+| 星期五          | xīngqī wǔ               | Friday    |
+| 星期六          | xīngqī liù              | Saturday  |
+| 星期日 / 星期天 | xīngqī rì / xīngqī tiān | Sunday    |
+
+### Months of the year
+
+| 汉子   | 拼音   | 英文      |
+| ------ | ------ | --------- |
+| 一月   | yī     | January   |
+| 二月   | èr     | February  |
+| 三月   | sān    | March     |
+| 四月   | sì     | April     |
+| 五月   | wǔ     | May       |
+| 六月   | liù    | June      |
+| 七月   | qī     | July      |
+| 八月   | bā     | August    |
+| 九月   | jiǔ    | September |
+| 十月   | shí    | October   |
+| 十一月 | shíyī  | November  |
+| 十二月 | shí'er | December  |
+
 ### Date
 
 | 汉子 | 拼音      | 英文                                  | Stroke order               |
