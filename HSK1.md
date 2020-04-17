@@ -238,3 +238,39 @@
 - 他今年五十六岁了.
 - 他女儿几岁了 ? / 他女儿呢 ?
 - 他女儿今年三岁了.
+
+## Lesson 6 : 我会说汉语
+
+### 会
+
+| 汉子 | 拼音   | 英文                                                      | Stroke order               |
+| ---- | ------ | --------------------------------------------------------- | -------------------------- |
+| 会   | huì    | can, to be possible, to be able to, to be likely to, will | ![会](Stroke_order/会.png) |
+| 写   | xiě    | to write                                                  | ![写](Stroke_order/写.png) |
+| 说   | shuō   | to speak, to say, to explain, to scold                    | ![说](Stroke_order/说.png) |
+| 读   | dú     | to read, to study, reading a word                         | ![读](Stroke_order/读.png) |
+| 怎   | zěn    | how                                                       | ![怎](Stroke_order/怎.png) |
+| 怎么 | zěn me | how ? what ? why ?                                        |                            |
+| 字   | zi     | letter, symbol, character, word                           | ![字](Stroke_order/字.png) |
+
+- 你妈妈会说中文吗 ?
+- 我妈妈不会说.
+- 你会写你的中文名字吗 ?
+- 我会写.
+- 这个字怎么写 ?
+- 对不起, 这个字不会写.
+
+### Food
+
+| 汉子 | 拼音    | 英文                                             | Stroke order               |
+| ---- | ------- | ------------------------------------------------ | -------------------------- |
+| 做   | zuò     | to do, to make, to produce, to compose, to write | ![做](Stroke_order/做.png) |
+| 菜   | cài     | dish, vegetable, cuisine                         | ![菜](Stroke_order/菜.png) |
+| 很   | hěn     | adverb of degree, quite, very                    | ![很](Stroke_order/很.png) |
+| 吃   | chī     | to eat, to consume, to absorb                    | ![吃](Stroke_order/吃.png) |
+| 好吃 | hǎo chī | tasty, delicious                                 |                            |
+
+- 你会做法国菜吗 ?
+- 我会做.
+- 法国菜好吃吗 ?
+- 法国菜很好吃.
