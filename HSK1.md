@@ -195,44 +195,44 @@
 
 - 你的汉语老师叫什么 ?
 
-## Lesson 5 :  她女儿今年二十岁
+## Lesson 5 : 她女儿今年二十岁
 
-| 汉子 | 拼音  | 英文                               | Stroke order                                              |
-| ---- | ----- | ---------------------------------- | --------------------------------------------------------- |
-| 女   | nǚ    | female, woman                      | ![女](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\女.png) |
-| 儿   | ér    | son                                | ![儿](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\儿.png) |
-| 女儿 | nǚ ér | daughter                           |                                                           |
-| 子   | zǐ    | son, child ,seed, egg, small thing | ![子](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\子.png) |
-| 儿子 | ér zi | son                                |                                                           |
+| 汉子 | 拼音  | 英文                               | Stroke order               |
+| ---- | ----- | ---------------------------------- | -------------------------- |
+| 女   | nǚ    | female, woman                      | ![女](Stroke_order/女.png) |
+| 儿   | ér    | son                                | ![儿](Stroke_order/儿.png) |
+| 女儿 | nǚ ér | daughter                           |                            |
+| 子   | zǐ    | son, child ,seed, egg, small thing | ![子](Stroke_order/子.png) |
+| 儿子 | ér zi | son                                |                            |
 
 ### Counting people
 
-| 汉子 | 拼音 | 英文                                    | Stroke order                                              |
-| ---- | ---- | --------------------------------------- | --------------------------------------------------------- |
-| 家   | jiā  | home, family                            | ![家](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\家.png) |
-| 有   | yǒu  | to have, there is, there are            | ![有](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\有.png) |
-| 几   | jǐ   | how much, how many (when 1 to 10)       | ![几](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\几.png) |
-| 口   | kǒu  | mouth, classifier for things with mouth | ![口](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\口.png) |
+| 汉子 | 拼音 | 英文                                    | Stroke order               |
+| ---- | ---- | --------------------------------------- | -------------------------- |
+| 家   | jiā  | home, family                            | ![家](Stroke_order/家.png) |
+| 有   | yǒu  | to have, there is, there are            | ![有](Stroke_order/有.png) |
+| 几   | jǐ   | how much, how many (when 1 to 10)       | ![几](Stroke_order/几.png) |
+| 口   | kǒu  | mouth, classifier for things with mouth | ![口](Stroke_order/口.png) |
 
 - 你家有几口人 ?
 - 我家有五口人.
 
 ### Age
 
-| 汉子 | 拼音      | 英文                                                         | Stroke order                                              |
-| ---- | --------- | ------------------------------------------------------------ | --------------------------------------------------------- |
-| 多   | duō       | many, much, often, a lot of                                  | ![多](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\多.png) |
-| 大   | dà        | big, huge, large, major, older, very much                    | ![大](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\大.png) |
-| 多大 | duō dà    | how big, how much, how old (more than 10)                    |                                                           |
-| 年   | nián      | year                                                         | ![年](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\年.png) |
-| 去   | qù        | to go, last, just passed                                     | ![去](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\去.png) |
-| 今   | jīn       | today, modern, present, current, now                         | ![今](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\今.png) |
-| 明   | míng      | bright, clean, next                                          | ![明](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\明.png) |
-| 去年 | qù nián   | last year                                                    |                                                           |
-| 今年 | jīn nián  | this year                                                    |                                                           |
-| 明年 | míng nián | next year                                                    |                                                           |
-| 岁   | suì       | classifier for years (of age), year                          | ![岁](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\岁.png) |
-| 了   | le        | completed action market, modal particle intensifying preceding clause | ![了](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\了.png) |
+| 汉子 | 拼音      | 英文                                                         | Stroke order               |
+| ---- | --------- | ------------------------------------------------------------ | -------------------------- |
+| 多   | duō       | many, much, often, a lot of                                  | ![多](Stroke_order/多.png) |
+| 大   | dà        | big, huge, large, major, older, very much                    | ![大](Stroke_order/大.png) |
+| 多大 | duō dà    | how big, how much, how old (more than 10)                    |                            |
+| 年   | nián      | year                                                         | ![年](Stroke_order/年.png) |
+| 去   | qù        | to go, last, just passed                                     | ![去](Stroke_order/去.png) |
+| 今   | jīn       | today, modern, present, current, now                         | ![今](Stroke_order/今.png) |
+| 明   | míng      | bright, clean, next                                          | ![明](Stroke_order/明.png) |
+| 去年 | qù nián   | last year                                                    |                            |
+| 今年 | jīn nián  | this year                                                    |                            |
+| 明年 | míng nián | next year                                                    |                            |
+| 岁   | suì       | classifier for years (of age), year                          | ![岁](Stroke_order/岁.png) |
+| 了   | le        | completed action market, modal particle intensifying preceding clause | ![了](Stroke_order/了.png) |
 
 - 你英文老师多大了 ?
 - 他今年五十六岁了.
