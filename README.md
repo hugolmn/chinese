@@ -8,3 +8,4 @@
 - [Lesson 4 : 她是我的汉语老师](HSK1.md#lesson-4--她是我的汉语老师)
 
 - [Lesson 5 : 她女儿今年二十岁](HSK1.md#lesson-5--她女儿今年二十岁)
+- [Lesson 6 : 我会说汉语](HSK1.md#lesson-6--我会说汉语)
