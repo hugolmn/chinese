@@ -258,7 +258,7 @@
 - 这个字怎么写 ?
 - 对不起, 这个字不会写.
 
-### Food - 1
+### Food
 
 | 汉子 | 拼音    | 英文                                             | Stroke order               |
 | ---- | ------- | ------------------------------------------------ | -------------------------- |
@@ -344,3 +344,60 @@
 - 明天星期五, 你去学校做什么 ?
 - 我去学校看书.
 
+## Lesson 8 : 我想喝茶
+
+| 汉子 | 拼音  | 英文                                            | Stroke order               |
+| ---- | ----- | ----------------------------------------------- | -------------------------- |
+| 想   | xiǎng | to wish, to want, to miss, to think, to believe | ![想](Stroke_order/想.png) |
+
+### Eating
+
+| 汉子 | 拼音   | 英文                          | Stroke order               |
+| ---- | ------ | ----------------------------- | -------------------------- |
+| 吃   | chī    | to eat, to consume, to absorb | ![吃](Stroke_order/吃.png) |
+| 米   | mǐ     | rice                          | ![米](Stroke_order/米.png) |
+| 饭   | fàn    | food,  cuisine, meal          | ![饭](Stroke_order/饭.png) |
+| 米饭 | mǐ fàn | (cooked) rice                 |                            |
+
+- 我想吃米饭
+
+### Drinking
+
+| 汉子 | 拼音   | 英文                                              | Stroke order               |
+| ---- | ------ | ------------------------------------------------- | -------------------------- |
+| 喝   | hē     | to drink                                          |                            |
+| 杯   | bēi    | cup, classifier for certain containers of liquids | ![杯](Stroke_order/杯.png) |
+| 杯子 | bēi zi | cup, glass                                        |                            |
+| 茶   | chá    | tea                                               |                            |
+
+- 我想喝茶
+
+### Shopping
+
+| 汉子 | 拼音       | 英文                                                         | Stroke order               |
+| ---- | ---------- | ------------------------------------------------------------ | -------------------------- |
+| 商   | shāng      | commerce, merchant, dealer                                   | ![商](Stroke_order/商.png) |
+| 店   | diàn       | inn, shop, store                                             | ![店](Stroke_order/店.png) |
+| 商店 | shāng diàn | store, shop                                                  |                            |
+| 买   | mǎi        | to buy, to purchase                                          | ![买](Stroke_order/买.png) |
+| 少   | shǎo       | few, less, to lack, to be missing                            | ![少](Stroke_order/少.png) |
+| 多少 | duō shao   | how much ? how many ?                                        |                            |
+| 钱   | qián       | coin, money                                                  | ![钱](Stroke_order/钱.png) |
+| 块   | kuài       | chunk, piece, classifier for money, currency units, pieces of cloth, cake, soap... | ![块](Stroke_order/块.png) |
+
+- 我想去商店买一个杯子
+- 那个杯子多少钱 ?
+
+### Moment of the day
+
+| 汉子 | 拼音     | 英文                                        | Stroke order               |
+| ---- | -------- | ------------------------------------------- | -------------------------- |
+| 下   | xià      | down, below, lower, later, next, to go down | ![下](Stroke_order/下.png) |
+| 上   | shàng    | on top, upon, above, previous               | ![上](Stroke_order/上.png) |
+| 午   | wǔ       | noon                                        | ![午](Stroke_order/午.png) |
+| 上午 | shàng wǔ | morning                                     |                            |
+| 中午 | zhōng wǔ | noon, midday                                |                            |
+| 下午 | xià wǔ   | afternoon                                   |                            |
+
+- 下午你想做什么 ?
+- 下午我想去商店
