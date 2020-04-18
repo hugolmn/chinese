@@ -182,16 +182,14 @@
 
 ### Language
 
-| 汉子 | 拼音      | 英文                                                   | Stroke order               |
-| ---- | --------- | ------------------------------------------------------ | -------------------------- |
-| 谁   | shéi      | who, whom                                              | ![谁](Stroke_order/谁.png) |
-| 的   | de        | ~'s (possessive particle), of, used after an attribute | ![的](Stroke_order/的.png) |
-| 汉   | Hàn       | Han ethnic group                                       | ![汉](Stroke_order/汉.png) |
-| 语   | yǔ        | language, dialect, speech                              | ![语](Stroke_order/语.png) |
-| 汉语 | Hàn yǔ    | Han (chinese) language                                 |                            |
-| 文   | wén       | language, culture, writing                             | ![文](Stroke_order/文.png) |
-| 中文 | Zhōng wén | Chinese language                                       |                            |
-| 法文 | Fǎ wén    | French language                                        |                            |
+| 汉子 | 拼音      | 英文                       | Stroke order               |
+| ---- | --------- | -------------------------- | -------------------------- |
+| 汉   | Hàn       | Han ethnic group           | ![汉](Stroke_order/汉.png) |
+| 语   | yǔ        | language, dialect, speech  | ![语](Stroke_order/语.png) |
+| 汉语 | Hàn yǔ    | Han (chinese) language     |                            |
+| 文   | wén       | language, culture, writing | ![文](Stroke_order/文.png) |
+| 中文 | Zhōng wén | Chinese language           |                            |
+| 法文 | Fǎ wén    | French language            |                            |
 
 - 你的汉语老师叫什么 ?
 
@@ -260,7 +258,7 @@
 - 这个字怎么写 ?
 - 对不起, 这个字不会写.
 
-### Food
+### Food - 1
 
 | 汉子 | 拼音    | 英文                                             | Stroke order               |
 | ---- | ------- | ------------------------------------------------ | -------------------------- |
@@ -282,6 +280,22 @@
 | 请   | qǐng     | to ask, to invite, please, to request | ![请](Stroke_order/请.png) |
 | 问   | wèn      | to ask                                | ![问](Stroke_order/问.png) |
 | 请问 | qǐng wèn | Excuse me, may I ask...?              |                            |
+
+### Date
+
+| 汉子 | 拼音      | 英文                                  | Stroke order               |
+| ---- | --------- | ------------------------------------- | -------------------------- |
+| 号   | hào       | ordinal number, day of a month        | ![号](Stroke_order/号.png) |
+| 天   | tiān      | day, sky, heaven                      | ![天](Stroke_order/天.png) |
+| 星   | xīng      | star, heavenly body                   | ![星](Stroke_order/星.png) |
+| 期   | qī        | a periode of time, phase, stage, time | ![期](Stroke_order/期.png) |
+| 星期 | xīng qī   | week, day of the week                 |                            |
+| 月   | yuè       | moon, month                           | ![月](Stroke_order/月.png) |
+| 年   | nián      | year                                  | ![年](Stroke_order/年.png) |
+| 昨   | zuó       | yesterday                             | ![昨](Stroke_order/昨.png) |
+| 今天 | jīn tiān  | today, at the present, now            |                            |
+| 昨天 | zuó tiān  | yesterday                             |                            |
+| 明天 | míng tiān | tomorrow                              |                            |
 
 ### Days of the week
 
@@ -312,22 +326,6 @@
 | 十一月 | shíyī  | November  |
 | 十二月 | shí'er | December  |
 
-### Date
-
-| 汉子 | 拼音      | 英文                                  | Stroke order               |
-| ---- | --------- | ------------------------------------- | -------------------------- |
-| 号   | hào       | ordinal number, day of a month        | ![号](Stroke_order/号.png) |
-| 天   | tiān      | day, sky, heaven                      | ![天](Stroke_order/天.png) |
-| 星   | xīng      | star, heavenly body                   | ![星](Stroke_order/星.png) |
-| 期   | qī        | a periode of time, phase, stage, time | ![期](Stroke_order/期.png) |
-| 星期 | xīng qī   | week, day of the week                 |                            |
-| 月   | yuè       | moon, month                           | ![月](Stroke_order/月.png) |
-| 年   | nián      | year                                  | ![年](Stroke_order/年.png) |
-| 昨   | zuó       | yesterday                             | ![昨](Stroke_order/昨.png) |
-| 今天 | jīn tiān  | today, at the present, now            |                            |
-| 昨天 | zuó tiān  | yesterday                             |                            |
-| 明天 | míng tiān | tomorrow                              |                            |
-
 - 请问, 今天几月几号 ?
 - 今天四月十七号.
 - 今天星期几 ?
@@ -345,3 +343,4 @@
 
 - 明天星期五, 你去学校做什么 ?
 - 我去学校看书.
+
