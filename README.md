@@ -9,6 +9,6 @@
 - [Lesson 5 : 她女儿今年二十岁](HSK1_1.md#lesson-5--她女儿今年二十岁)
 - [Lesson 6 : 我会说汉语](HSK1_1.md#lesson-6--我会说汉语)
 - [Lesson 7 : 今天几号 ?](HSK1_1.md#lesson-7--今天几号-)
-- [Lesson 8 : 我想喝茶](HSK1_2.md#lesson-8--我想喝茶)
+- [Lesson 8 : 我想喝茶](HSK1_1.md#lesson-8--我想喝茶)
 
 - [Lesson 9 : 你儿子在哪儿哪儿 ?](HSK1_2.md#lesson-9--你儿子在哪儿哪儿-)
