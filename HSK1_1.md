@@ -363,12 +363,12 @@
 
 ### Drinking
 
-| 汉子 | 拼音   | 英文                                              | Stroke order               |
-| ---- | ------ | ------------------------------------------------- | -------------------------- |
-| 喝   | hē     | to drink                                          |                            |
-| 杯   | bēi    | cup, classifier for certain containers of liquids | ![杯](Stroke_order/杯.png) |
-| 杯子 | bēi zi | cup, glass                                        |                            |
-| 茶   | chá    | tea                                               |                            |
+| 汉子 | 拼音   | 英文                                              | Stroke order                                              |
+| ---- | ------ | ------------------------------------------------- | --------------------------------------------------------- |
+| 喝   | hē     | to drink                                          | ![喝](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\喝.png) |
+| 杯   | bēi    | cup, classifier for certain containers of liquids | ![杯](Stroke_order/杯.png)                                |
+| 杯子 | bēi zi | cup, glass                                        |                                                           |
+| 茶   | chá    | tea                                               | ![茶](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\茶.png) |
 
 - 我想喝茶
 
