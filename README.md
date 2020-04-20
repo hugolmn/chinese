@@ -10,5 +10,5 @@
 - [Lesson 6 : 我会说汉语](HSK1_1.md#lesson-6--我会说汉语)
 - [Lesson 7 : 今天几号 ?](HSK1_1.md#lesson-7--今天几号-)
 - [Lesson 8 : 我想喝茶](HSK1_1.md#lesson-8--我想喝茶)
-
 - [Lesson 9 : 你儿子在哪儿哪儿 ?](HSK1_2.md#lesson-9--你儿子在哪儿哪儿-)
+- [Lesson 10 : 我能坐这儿吗 ?](HSK1_2.md#lesson-10--我能坐这儿吗-)
