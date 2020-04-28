@@ -12,3 +12,6 @@
 - [Lesson 8 : 我想喝茶](HSK1_1.md#lesson-8--我想喝茶)
 - [Lesson 9 : 你儿子在哪儿哪儿 ?](HSK1_2.md#lesson-9--你儿子在哪儿哪儿-)
 - [Lesson 10 : 我能坐这儿吗 ?](HSK1_2.md#lesson-10--我能坐这儿吗-)
+- [Lesson 11 : 现在几点 ?](HSK1_2.md#lesson-11--现在几点-)
+
+- [Lesson 12 : 明天天气怎么样 ?](HSK1_2.md#lesson-12--明天天气怎么样-)
