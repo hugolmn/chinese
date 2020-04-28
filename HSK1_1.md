@@ -363,12 +363,12 @@
 
 ### Drinking
 
-| 汉子 | 拼音   | 英文                                              | Stroke order                                              |
-| ---- | ------ | ------------------------------------------------- | --------------------------------------------------------- |
-| 喝   | hē     | to drink                                          | ![喝](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\喝.png) |
-| 杯   | bēi    | cup, classifier for certain containers of liquids | ![杯](Stroke_order/杯.png)                                |
-| 杯子 | bēi zi | cup, glass                                        |                                                           |
-| 茶   | chá    | tea                                               | ![茶](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\茶.png) |
+| 汉子 | 拼音   | 英文                                              | Stroke order               |
+| ---- | ------ | ------------------------------------------------- | -------------------------- |
+| 喝   | hē     | to drink                                          | ![喝](Stroke_order/喝.png) |
+| 杯   | bēi    | cup, classifier for certain containers of liquids | ![杯](Stroke_order/杯.png) |
+| 杯子 | bēi zi | cup, glass                                        |                            |
+| 茶   | chá    | tea                                               | ![茶](Stroke_order/茶.png) |
 
 - 我想喝茶
 
@@ -387,17 +387,3 @@
 
 - 我想去商店买一个杯子
 - 那个杯子多少钱 ?
-
-### Moment of the day
-
-| 汉子 | 拼音     | 英文                                        | Stroke order               |
-| ---- | -------- | ------------------------------------------- | -------------------------- |
-| 下   | xià      | down, below, lower, later, next, to go down | ![下](Stroke_order/下.png) |
-| 上   | shàng    | on top, upon, above, previous               | ![上](Stroke_order/上.png) |
-| 午   | wǔ       | noon                                        | ![午](Stroke_order/午.png) |
-| 上午 | shàng wǔ | morning                                     |                            |
-| 中午 | zhōng wǔ | noon, midday                                |                            |
-| 下午 | xià wǔ   | afternoon                                   |                            |
-
-- 下午你想做什么 ?
-- 下午我想去商店
