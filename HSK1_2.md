@@ -125,6 +125,8 @@
 | 现在 | xiàn zài | now, at present, at the moment                   |                                                           |
 | 点   | diǎn     | o'clock, point, dot, to check on a list          | ![点](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\点.png) |
 | 分   | fēn      | minute, part or subdivision, fraction, 0.01 yuan | ![分](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\分.png) |
+| 刻   | kè       | quarter (hour)                                   | ![刻](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\刻.png) |
+| 半   | bàn      | half, semi-, incomplete, and a half              | ![半](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\半.png) |
 | 时   | shí      | time, when, hour, season, period                 | ![时](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\时.png) |
 | 候   | hòu      | to wait, season, climate                         | ![候](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\候.png) |
 | 时候 | shí hou  | time, moment, period                             |                                                           |
