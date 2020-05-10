@@ -198,3 +198,20 @@
 - 你多吃些水果, 多喝水.
 - 谢谢你医生.
 
+## Lesson 13 : 他在学做中国菜呢 ?
+
+| 汉子 | 拼音 | 英文       | Stroke order                                              |
+| ---- | ---- | ---------- | --------------------------------------------------------- |
+| 喂   | wèi  | hey, hello |                                                           |
+| 也   | yě   | also, too  | ![也](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\也.png) |
+
+### Phone
+
+| 汉子   | 拼音        | 英文                                                         | Stroke order                                              |
+| ------ | ----------- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 打     | dǎ          | to make, to beat, to strike, to hit, to break, to type, to build, to issue | ![打](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\打.png) |
+| 电     | diàn        | electric, electricity                                        | ![电](Stroke_order/电.png)                                |
+| 话     | huà         | dialect, language, spoken words, speech, talk, words         | ![](Stroke_order/话.png)                                  |
+| 电话   | diàn huà    | telephone                                                    |                                                           |
+| 打电话 | dǎ diàn huà | to make a phone call                                         |                                                           |
+| 给     | gěi         | to, for, to the benefit of, to give, to allow                | ![给](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\给.png) |
