@@ -15,5 +15,3 @@
 - [Lesson 11 : 现在几点 ?](HSK1_2.md#lesson-11--现在几点-)
 - [Lesson 12 : 明天天气怎么样 ?](HSK1_2.md#lesson-12--明天天气怎么样-)
 - [Lesson 13 : 他在学做中国菜呢](HSK1_2.md#lesson-13--他在学做中国菜呢)
-
-Lesson 13 : 他在学做中国菜呢
