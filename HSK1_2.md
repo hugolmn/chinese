@@ -198,12 +198,21 @@
 - 你多吃些水果, 多喝水.
 - 谢谢你医生.
 
-## Lesson 13 : 他在学做中国菜呢 ?
+## Lesson 13 : 他在学做中国菜呢
 
-| 汉子 | 拼音 | 英文       | Stroke order               |
-| ---- | ---- | ---------- | -------------------------- |
-| 喂   | wèi  | hey, hello |                            |
-| 也   | yě   | also, too  | ![也](Stroke_order\也.png) |
+| 汉子 | 拼音      | 英文                                                         | Stroke order               |
+| ---- | --------- | ------------------------------------------------------------ | -------------------------- |
+| 喂   | wèi       | hey, hello                                                   |                            |
+| 也   | yě        | also, too                                                    | ![也](Stroke_order\也.png) |
+| 习   | xí        | to practice, to study, habit                                 | ![习](Stroke_order\习.png) |
+| 学习 | xué xí    | to learn, to study                                           |                            |
+| 睡   | shuì      | to sleep, to lie down                                        | ![睡](Stroke_order\睡.png) |
+| 觉   | jiào      | a nap, a sleep                                               | ![觉](Stroke_order\觉.png) |
+| 睡觉 | shuì jiào | to go to bed, to sleep                                       |                            |
+| 喜   | xǐ        | to be fond of, to like, to enjoy, to be happy, to feel pleased | ![喜](Stroke_order\喜.png) |
+| 欢   | huān      | joyous, happy, pleased                                       | ![欢](Stroke_order\欢.png) |
+| 喜欢 | xǐ huan   | to like, to be fond of                                       |                            |
+| 吧   | ba        | modal particle indicating suggestion, request or command     | ![吧](Stroke_order\吧.png) |
 
 ### Phone
 
@@ -215,3 +224,4 @@
 | 电话   | diàn huà    | telephone                                                    |                            |
 | 打电话 | dǎ diàn huà | to make a phone call                                         |                            |
 | 给     | gěi         | to, for, to the benefit of, to give, to allow                | ![给](Stroke_order\给.png) |
+| 号码   | hào mǎ      | number (telephone)                                           |                            |
