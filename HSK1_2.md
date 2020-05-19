@@ -214,6 +214,9 @@
 | 喜欢 | xǐ huan   | to like, to be fond of                                       |                            |
 | 吧   | ba        | modal particle indicating suggestion, request or command     | ![吧](Stroke_order\吧.png) |
 
+- 你在做什么呢 ?
+- 我在看书呢.
+
 ### Phone
 
 | 汉子   | 拼音        | 英文                                                         | Stroke order               |
@@ -225,3 +228,30 @@
 | 打电话 | dǎ diàn huà | to make a phone call                                         |                            |
 | 给     | gěi         | to, for, to the benefit of, to give, to allow                | ![给](Stroke_order\给.png) |
 | 号码   | hào mǎ      | number (telephone)                                           |                            |
+
+- 我现在给他打电话
+
+## Lesson 14 : 他买了不少衣服
+
+### Shopping
+
+| 汉子 | 拼音     | 英文                 | Stroke order                                              |
+| ---- | -------- | -------------------- | --------------------------------------------------------- |
+| 东   | dōng     | east                 | ![东](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\东.png) |
+| 西   | xī       | west                 |                                                           |
+| 东西 | dōng xi  | thing, stuff, person |                                                           |
+| 苹果 | píng guǒ | apple                | ![苹](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\苹.png) |
+
+- 我去商店买东西了
+- 你买什么了 ?
+- 我买了一点儿苹果
+
+### Driving
+
+| 汉子 | 拼音     | 英文                                    | Stroke order                                              |
+| ---- | -------- | --------------------------------------- | --------------------------------------------------------- |
+| 开   | kāi      | to open, to start, to turn on, to drive | ![开](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\开.png) |
+| 车   | chē      | car, vehicule                           | ![车](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\车.png) |
+| 看见 | kàn jiàn | to see                                  |                                                           |
+| 先生 |          |                                         |                                                           |
+
