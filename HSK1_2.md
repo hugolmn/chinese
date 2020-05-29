@@ -233,25 +233,57 @@
 
 ## Lesson 14 : 他买了不少衣服
 
+| 汉子 | 拼音       | 英文                                                  | Stroke order                                               |
+| ---- | ---------- | ----------------------------------------------------- | ---------------------------------------------------------- |
+| 看见 | kàn jiàn   | to see                                                |                                                            |
+| 分   | fēn        | to divide, to separate, part, share                   | ![分](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\分.png) |
+| 钟   | zhōng      | clock, o'clock, time as measured in hours and minutes | ![钟](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\钟.png) |
+| 分钟 | fēn zhōng  | minute                                                |                                                            |
+| 回   | huí        | to circle, to go back, to turn around                 | ![回](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\回.png) |
+| 来   | lái        | to come, to arrive                                    | ![来](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\来.png) |
+| 回来 | huí lai    | to return, to come back                               |                                                            |
+| 先   | xiān       | early, prior, former, in advance, first               | ![先](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\先.png) |
+| 先生 | xiān sheng | mister, teacher, husband                              |                                                            |
+
+- 他什么时候能回来 ?
+- 他四十分钟后回来.
+
 ### Shopping
 
-| 汉子 | 拼音     | 英文                 | Stroke order                                              |
-| ---- | -------- | -------------------- | --------------------------------------------------------- |
-| 东   | dōng     | east                 | ![东](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\东.png) |
-| 西   | xī       | west                 |                                                           |
-| 东西 | dōng xi  | thing, stuff, person |                                                           |
-| 苹果 | píng guǒ | apple                | ![苹](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\苹.png) |
+| 汉子 | 拼音       | 英文                                  | Stroke order                                               |
+| ---- | ---------- | ------------------------------------- | ---------------------------------------------------------- |
+| 东   | dōng       | east                                  | ![东](Stroke_order/东.png)                                 |
+| 西   | xī         | west                                  |                                                            |
+| 东西 | dōng xi    | thing, stuff, person                  |                                                            |
+| 苹果 | píng guǒ   | apple                                 | ![苹](Stroke_order/苹.png)                                 |
+| 衣   | yī         | clothes, to dress, to wear, to put on | ![衣](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\衣.png) |
+| 服   | fu         | clothes, dress, garment               | ![服](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\服.png) |
+| 衣服 | yī fu      | clothes                               |                                                            |
+| 漂   | piào       | elegant, polished                     | ![漂](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\漂.png) |
+| 亮   | liàng      | bright, clear, resonant, to shine     | ![亮](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\亮.png) |
+| 漂亮 | piào liang | pretty, beautiful                     |                                                            |
 
-- 我去商店买东西了
+- 我去商店买东西了.
 - 你买什么了 ?
-- 我买了一点儿苹果
+- 我买了一点儿苹果.
 
 ### Driving
 
-| 汉子 | 拼音     | 英文                                    | Stroke order                                              |
-| ---- | -------- | --------------------------------------- | --------------------------------------------------------- |
-| 开   | kāi      | to open, to start, to turn on, to drive | ![开](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\开.png) |
-| 车   | chē      | car, vehicule                           | ![车](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\车.png) |
-| 看见 | kàn jiàn | to see                                  |                                                           |
-| 先生 |          |                                         |                                                           |
+| 汉子 | 拼音 | 英文                                    | Stroke order               |
+| ---- | ---- | --------------------------------------- | -------------------------- |
+| 开   | kāi  | to open, to start, to turn on, to drive | ![开](Stroke_order/开.png) |
+| 车   | chē  | car, vehicule                           | ![车](Stroke_order/车.png) |
 
+- 我今天上午去学开车了.
+
+### Counting
+
+| 汉子 | 拼音    | 英文                 | Stroke order                                               |
+| ---- | ------- | -------------------- | ---------------------------------------------------------- |
+| 少   | shǎo    | few, less, to lack   | ![少](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\少.png) |
+| 不少 | bù shǎo | many, a lot, not few |                                                            |
+| 这些 | zhè xiē | these                |                                                            |
+| 都   | dōu     | all, both, entirely  | ![都](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\都.png) |
+
+- 他买了不少衣服.
+- 这些都是我的衣服.
