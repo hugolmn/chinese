@@ -235,12 +235,12 @@
 
 ### Shopping
 
-| 汉子 | 拼音     | 英文                 | Stroke order                                              |
-| ---- | -------- | -------------------- | --------------------------------------------------------- |
-| 东   | dōng     | east                 | ![东](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\东.png) |
-| 西   | xī       | west                 |                                                           |
-| 东西 | dōng xi  | thing, stuff, person |                                                           |
-| 苹果 | píng guǒ | apple                | ![苹](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\苹.png) |
+| 汉子 | 拼音     | 英文                 | Stroke order               |
+| ---- | -------- | -------------------- | -------------------------- |
+| 东   | dōng     | east                 | ![东](Stroke_order/东.png) |
+| 西   | xī       | west                 |                            |
+| 东西 | dōng xi  | thing, stuff, person |                            |
+| 苹果 | píng guǒ | apple                | ![苹](Stroke_order/苹.png) |
 
 - 我去商店买东西了
 - 你买什么了 ?
@@ -248,10 +248,10 @@
 
 ### Driving
 
-| 汉子 | 拼音     | 英文                                    | Stroke order                                              |
-| ---- | -------- | --------------------------------------- | --------------------------------------------------------- |
-| 开   | kāi      | to open, to start, to turn on, to drive | ![开](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\开.png) |
-| 车   | chē      | car, vehicule                           | ![车](C:\Users\Hugo\OneDrive\Chinese\Stroke_order\车.png) |
-| 看见 | kàn jiàn | to see                                  |                                                           |
-| 先生 |          |                                         |                                                           |
+| 汉子 | 拼音     | 英文                                    | Stroke order               |
+| ---- | -------- | --------------------------------------- | -------------------------- |
+| 开   | kāi      | to open, to start, to turn on, to drive | ![开](Stroke_order/开.png) |
+| 车   | chē      | car, vehicule                           | ![车](Stroke_order/车.png) |
+| 看见 | kàn jiàn | to see                                  |                            |
+| 先生 |          |                                         |                            |
 
