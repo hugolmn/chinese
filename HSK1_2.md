@@ -248,7 +248,16 @@
 - 他什么时候能回来 ?
 - 他四十分钟后回来.
 
+<<<<<<< HEAD
 ### Shopping
+=======
+| 汉子 | 拼音     | 英文                 | Stroke order               |
+| ---- | -------- | -------------------- | -------------------------- |
+| 东   | dōng     | east                 | ![东](Stroke_order/东.png) |
+| 西   | xī       | west                 |                            |
+| 东西 | dōng xi  | thing, stuff, person |                            |
+| 苹果 | píng guǒ | apple                | ![苹](Stroke_order/苹.png) |
+>>>>>>> 8a36b92861b24b6c64590938278143fd0d0025dc
 
 | 汉子 | 拼音       | 英文                                  | Stroke order                                               |
 | ---- | ---------- | ------------------------------------- | ---------------------------------------------------------- |
@@ -269,6 +278,7 @@
 
 ### Driving
 
+<<<<<<< HEAD
 | 汉子 | 拼音 | 英文                                    | Stroke order               |
 | ---- | ---- | --------------------------------------- | -------------------------- |
 | 开   | kāi  | to open, to start, to turn on, to drive | ![开](Stroke_order/开.png) |
@@ -284,6 +294,14 @@
 | 不少 | bù shǎo | many, a lot, not few |                                                            |
 | 这些 | zhè xiē | these                |                                                            |
 | 都   | dōu     | all, both, entirely  | ![都](C:\Users\Diabo\OneDrive\Chinese\Stroke_order\都.png) |
+=======
+| 汉子 | 拼音     | 英文                                    | Stroke order               |
+| ---- | -------- | --------------------------------------- | -------------------------- |
+| 开   | kāi      | to open, to start, to turn on, to drive | ![开](Stroke_order/开.png) |
+| 车   | chē      | car, vehicule                           | ![车](Stroke_order/车.png) |
+| 看见 | kàn jiàn | to see                                  |                            |
+| 先生 |          |                                         |                            |
+>>>>>>> 8a36b92861b24b6c64590938278143fd0d0025dc
 
 - 他买了不少衣服.
 - 这些都是我的衣服.
