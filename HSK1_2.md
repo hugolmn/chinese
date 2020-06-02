@@ -83,7 +83,7 @@
 | 电脑 | diàn nǎo  | computer                                                     |                            |
 | 话   | huà       | dialect, language, spoken words, speech, talk, words         | ![话](Stroke_order/话.png) |
 | 电话 | diàn huà  | telephone                                                    |                            |
-| 影   | yǐng      | picture, image, film, movie, photograph                      | ![影](Stroke_order\影.png) |
+| 影   | yǐng      | picture, image, film, movie, photograph                      | ![影](Stroke_order/影.png) |
 | 电影 | diàn yǐng | movie, film                                                  |                            |
 | 本   | běn       | roots or stem of plants, origin, source, foundation, classifier for books, files etc. | ![本](Stroke_order/本.png) |
 | 书   | shū       | book, letter, document                                       | ![书](Stroke_order/书.png) |
@@ -114,21 +114,21 @@
 
 | 汉子 | 拼音 | 英文                                             | Stroke order               |
 | ---- | ---- | ------------------------------------------------ | -------------------------- |
-| 住   | zhù  | to live, to dwell, to stay, to reside            | ![住](Stroke_order\住.png) |
-| 回   | huí  | to circle, to go back, to turn around, to return | ![回](Stroke_order\回.png) |
+| 住   | zhù  | to live, to dwell, to stay, to reside            | ![住](Stroke_order/住.png) |
+| 回   | huí  | to circle, to go back, to turn around, to return | ![回](Stroke_order/回.png) |
 
 ### Time
 
 | 汉子 | 拼音     | 英文                                             | Stroke order               |
 | ---- | -------- | ------------------------------------------------ | -------------------------- |
-| 现   | xiàn     | to appear, present, now, current                 | ![现](Stroke_order\现.png) |
+| 现   | xiàn     | to appear, present, now, current                 | ![现](Stroke_order/现.png) |
 | 现在 | xiàn zài | now, at present, at the moment                   |                            |
-| 点   | diǎn     | o'clock, point, dot, to check on a list          | ![点](Stroke_order\点.png) |
-| 分   | fēn      | minute, part or subdivision, fraction, 0.01 yuan | ![分](Stroke_order\分.png) |
-| 刻   | kè       | quarter (hour)                                   | ![刻](Stroke_order\刻.png) |
-| 半   | bàn      | half, semi-, incomplete, and a half              | ![半](Stroke_order\半.png) |
-| 时   | shí      | time, when, hour, season, period                 | ![时](Stroke_order\时.png) |
-| 候   | hòu      | to wait, season, climate                         | ![候](Stroke_order\候.png) |
+| 点   | diǎn     | o'clock, point, dot, to check on a list          | ![点](Stroke_order/点.png) |
+| 分   | fēn      | minute, part or subdivision, fraction, 0.01 yuan | ![分](Stroke_order/分.png) |
+| 刻   | kè       | quarter (hour)                                   | ![刻](Stroke_order/刻.png) |
+| 半   | bàn      | half, semi-, incomplete, and a half              | ![半](Stroke_order/半.png) |
+| 时   | shí      | time, when, hour, season, period                 | ![时](Stroke_order/时.png) |
+| 候   | hòu      | to wait, season, climate                         | ![候](Stroke_order/候.png) |
 | 时候 | shí hou  | time, moment, period                             |                            |
 
 - 现在几点 ?
@@ -156,7 +156,7 @@
 
 | 汉子 | 拼音     | 英文                              | Stroke order             |
 | ---- | -------- | --------------------------------- | ------------------------ |
-| 来   | lái      | to come, to arrive, to come round | ![](Stroke_order\来.png) |
+| 来   | lái      | to come, to arrive, to come round | ![](Stroke_order/来.png) |
 | 小姐 | xiǎo jie | young lady, miss                  |                          |
 
 ### Weather
@@ -164,13 +164,13 @@
 | 汉子      | 拼音        | 英文                                          | Stroke order               |
 | --------- | ----------- | --------------------------------------------- | -------------------------- |
 | 天气      | tiān qì     | weather                                       |                            |
-| 样        | yàng        | manner, pattern, way, appearance              | ![样](Stroke_order\样.png) |
+| 样        | yàng        | manner, pattern, way, appearance              | ![样](Stroke_order/样.png) |
 | 怎么样    | zěn me yàng | how ? how about ? how was it ?                |                            |
-| 太        | tài         | highest, greatest, too (much) very, extremely | ![太](Stroke_order\太.png) |
+| 太        | tài         | highest, greatest, too (much) very, extremely | ![太](Stroke_order/太.png) |
 | 太 ... 了 | tài ... le  | too ..., extremely ...                        |                            |
-| 热        | rè          | hot, heat                                     | ![热](Stroke_order\热.png) |
-| 冷        | lěng        | cold                                          | ![冷](Stroke_order\冷.png) |
-| 雨        | yǔ          | rain                                          | ![雨](Stroke_order\雨.png) |
+| 热        | rè          | hot, heat                                     | ![热](Stroke_order/热.png) |
+| 冷        | lěng        | cold                                          | ![冷](Stroke_order/冷.png) |
+| 雨        | yǔ          | rain                                          | ![雨](Stroke_order/雨.png) |
 | 下雨      | xià yǔ      | to rain                                       |                            |
 
 - 昨天北京的天气怎么样 ?
@@ -182,15 +182,15 @@
 
 | 汉子 | 拼音     | 英文                                  | Stroke order               |
 | ---- | -------- | ------------------------------------- | -------------------------- |
-| 身   | shēn     | body, life, oneself, personnally      | ![身](Stroke_order\身.png) |
-| 体   | tǐ       | body, form, style,  system, substance | ![体](Stroke_order\体.png) |
+| 身   | shēn     | body, life, oneself, personnally      | ![身](Stroke_order/身.png) |
+| 体   | tǐ       | body, form, style,  system, substance | ![体](Stroke_order/体.png) |
 | 身体 | shēntǐ   | the body, one's health                |                            |
-| 爱   | ài       | to love, to be fond of, to like       | ![爱](Stroke_order\爱.png) |
-| 多   | duō      | more, many,  much                     | ![多](Stroke_order\多.png) |
-| 些   | xiē      | some, few, several                    | ![些](Stroke_order\些.png) |
-| 少   | shǎo     | less, few                             | ![少](Stroke_order\少.png) |
-| 水   | shuǐ     | water, river, liquid                  | ![水](Stroke_order\水.png) |
-| 果   | guǒ      | fruit, result                         | ![果](Stroke_order\果.png) |
+| 爱   | ài       | to love, to be fond of, to like       | ![爱](Stroke_order/爱.png) |
+| 多   | duō      | more, many,  much                     | ![多](Stroke_order/多.png) |
+| 些   | xiē      | some, few, several                    | ![些](Stroke_order/些.png) |
+| 少   | shǎo     | less, few                             | ![少](Stroke_order/少.png) |
+| 水   | shuǐ     | water, river, liquid                  | ![水](Stroke_order/水.png) |
+| 果   | guǒ      | fruit, result                         | ![果](Stroke_order/果.png) |
 | 水果 | shuǐ guǒ | fruit                                 |                            |
 
 - 你身体怎么样 ?
@@ -203,16 +203,16 @@
 | 汉子 | 拼音      | 英文                                                         | Stroke order               |
 | ---- | --------- | ------------------------------------------------------------ | -------------------------- |
 | 喂   | wèi       | hey, hello                                                   |                            |
-| 也   | yě        | also, too                                                    | ![也](Stroke_order\也.png) |
-| 习   | xí        | to practice, to study, habit                                 | ![习](Stroke_order\习.png) |
+| 也   | yě        | also, too                                                    | ![也](Stroke_order/也.png) |
+| 习   | xí        | to practice, to study, habit                                 | ![习](Stroke_order/习.png) |
 | 学习 | xué xí    | to learn, to study                                           |                            |
-| 睡   | shuì      | to sleep, to lie down                                        | ![睡](Stroke_order\睡.png) |
-| 觉   | jiào      | a nap, a sleep                                               | ![觉](Stroke_order\觉.png) |
+| 睡   | shuì      | to sleep, to lie down                                        | ![睡](Stroke_order/睡.png) |
+| 觉   | jiào      | a nap, a sleep                                               | ![觉](Stroke_order/觉.png) |
 | 睡觉 | shuì jiào | to go to bed, to sleep                                       |                            |
-| 喜   | xǐ        | to be fond of, to like, to enjoy, to be happy, to feel pleased | ![喜](Stroke_order\喜.png) |
-| 欢   | huān      | joyous, happy, pleased                                       | ![欢](Stroke_order\欢.png) |
+| 喜   | xǐ        | to be fond of, to like, to enjoy, to be happy, to feel pleased | ![喜](Stroke_order/喜.png) |
+| 欢   | huān      | joyous, happy, pleased                                       | ![欢](Stroke_order/欢.png) |
 | 喜欢 | xǐ huan   | to like, to be fond of                                       |                            |
-| 吧   | ba        | modal particle indicating suggestion, request or command     | ![吧](Stroke_order\吧.png) |
+| 吧   | ba        | modal particle indicating suggestion, request or command     | ![吧](Stroke_order/吧.png) |
 
 - 你在做什么呢 ?
 - 我在看书呢.
@@ -221,12 +221,12 @@
 
 | 汉子   | 拼音        | 英文                                                         | Stroke order               |
 | ------ | ----------- | ------------------------------------------------------------ | -------------------------- |
-| 打     | dǎ          | to make, to beat, to strike, to hit, to break, to type, to build, to issue | ![打](Stroke_order\打.png) |
+| 打     | dǎ          | to make, to beat, to strike, to hit, to break, to type, to build, to issue | ![打](Stroke_order/打.png) |
 | 电     | diàn        | electric, electricity                                        | ![电](Stroke_order/电.png) |
 | 话     | huà         | dialect, language, spoken words, speech, talk, words         | ![](Stroke_order/话.png)   |
 | 电话   | diàn huà    | telephone                                                    |                            |
 | 打电话 | dǎ diàn huà | to make a phone call                                         |                            |
-| 给     | gěi         | to, for, to the benefit of, to give, to allow                | ![给](Stroke_order\给.png) |
+| 给     | gěi         | to, for, to the benefit of, to give, to allow                | ![给](Stroke_order/给.png) |
 | 号码   | hào mǎ      | number (telephone)                                           |                            |
 
 - 我现在给他打电话
