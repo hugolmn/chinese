@@ -278,7 +278,7 @@
 
 ### Counting
 
-| 汉子 | 拼音    | 英文                 | Stroke order               |
+|      |         |                      |                            |
 | ---- | ------- | -------------------- | -------------------------- |
 | 少   | shǎo    | few, less, to lack   | ![少](Stroke_order/少.png) |
 | 不少 | bù shǎo | many, a lot, not few |                            |
@@ -287,3 +287,39 @@
 
 - 他买了不少衣服.
 - 这些都是我的衣服.
+
+# Lesson 15 : 我是坐飞机来的
+
+| 汉子   | 拼音         | 英文                                |
+| ------ | ------------ | ----------------------------------- |
+| 一起   | yī qǐ        | in the same place, together, with   |
+| 大学   | dà xué       | university, college                 |
+| 大学生 | dà xué shēng | university student, college student |
+
+### To meet, to know
+
+| 汉子 | 拼音     | 英文                                              | Stroke order               |
+| ---- | -------- | ------------------------------------------------- | -------------------------- |
+| 认   | rèn      | to recognize, to know                             | ![认](Stroke_order/认.png) |
+| 识   | shí      | to know, knowledge                                | ![识](Stroke_order/识.png) |
+| 认识 | rèn shi  | to know, to recognize, to be familiar with,       |                            |
+| 高   | gāo      | high, tall, above average                         | ![高](Stroke_order/高.png) |
+| 兴   | xīng     | to rise, to flourish, to become popular, to start | ![兴](Stroke_order/兴.png) |
+| 高兴 | gāo xìng | happy, glad, in a cheerful mood                   |                            |
+| 听   | tīng     | to listen, to hear, to obey                       | ![听](Stroke_order/听.png) |
+
+- 我们是二零一九五月认识的.
+- 很高兴认识
+
+### Transports
+
+| 汉子   | 拼音       | 英文                                   | Stroke order               |
+| ------ | ---------- | -------------------------------------- | -------------------------- |
+| 飞     | fēi        | to fly                                 | ![飞](Stroke_order/飞.png) |
+| 机     | jī         | machine, engine, opportunity, aircraft | ![机](Stroke_order/机.png) |
+| 飞机   | fēi jī     | airplane                               |                            |
+| 出     | chū        | to go out, to come out                 | ![出](Stroke_order/出.png) |
+| 租     | zū         | to hire, to rent, to charter           | ![租](Stroke_order/租.png) |
+| 出租车 | chū zū chē | taxi                                   |                            |
+
+- 你是坐飞机来台湾的？
